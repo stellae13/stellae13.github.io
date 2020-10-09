@@ -12,7 +12,8 @@ body {
 
 .assignment img {
 	width:200px;
-	padding:10px;
+	margin-right: 20px;
+	border: 2px solid #cce0ff;
 }
 
 h1 {
@@ -20,4 +21,8 @@ h1 {
 	text-align: center;
 }
 
+a {
+	text-decoration:none;
+	color:#80b3ff;
+}
  
