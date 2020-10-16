@@ -8,21 +8,28 @@ body {
 	padding:10px;
 	background:#8c98bf;
 	margin:10px;
+	margin-bottom: 30px;
+	border-radius: 8px;
+	box-shadow: 5px 10px #23457d;
 }
 
 .assignment img {
 	width:200px;
 	margin-right: 20px;
 	border: 2px solid #cce0ff;
+	border-radius: 8px;
 }
 
 h1 {
-	color:#2a284a;
+	color:#23457d;
 	text-align: center;
 }
 
 a {
 	text-decoration:none;
-	color:#80b3ff;
+	color:#597eb5;
+}
+.assignment a:hover {
+	color:#85b6ff;
 }
  
